@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MistyStep",
   "resources": {
-    "hash": "sha256-rRKAxYX36tP83ImcltplrNaRIc+vLhmYuNydW4sXFhg=",
+    "hash": "sha256-sGlNolywTCJMBTijaOsnoCPz0HZXMzsIr8Gpb3a1UkI=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.Forms.p4cmqynr10.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.1um3vl88fs.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -20,7 +20,7 @@
       "Microsoft.Extensions.Primitives.mytv1lpnrg.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.agnux60n3l.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.heoad7mujs.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
-      "MistyStep.xsebujxt3t.wasm": "MistyStep.wasm",
+      "MistyStep.fwmqeu4b3i.wasm": "MistyStep.wasm",
       "MudBlazor.wtk896vovr.wasm": "MudBlazor.wasm",
       "netstandard.bvke0nfk4t.wasm": "netstandard.wasm",
       "System.Collections.Concurrent.a5p27xsv4n.wasm": "System.Collections.Concurrent.wasm",
@@ -93,7 +93,7 @@
       "Microsoft.Extensions.Primitives.mytv1lpnrg.wasm": "sha256-kvH0PWaEihTjfJSm4b+K3UHAQau8H9u9OsWrrZj/Chw=",
       "Microsoft.JSInterop.agnux60n3l.wasm": "sha256-xtQtSoK56ZLcZdr1TPIw4dex5O90dyRzRhWC9Coj9J8=",
       "Microsoft.JSInterop.WebAssembly.heoad7mujs.wasm": "sha256-99wG3VH14sWkwPaF5rX6YAcJvtAhDuqonwihvj2m5HA=",
-      "MistyStep.xsebujxt3t.wasm": "sha256-T4YHx+OAUZOjx5Q9m/KKkjIL3cRGWsXon1MLSFWXXIo=",
+      "MistyStep.fwmqeu4b3i.wasm": "sha256-b/xsWkGaMiZZ4fQOUQXzdUoXBrzFxcFkaabQqV0e2LE=",
       "MudBlazor.wtk896vovr.wasm": "sha256-dIygsqO1vvpS6xM2duwQLWBKrYhBAjTwcQPYu3tAQyA=",
       "netstandard.bvke0nfk4t.wasm": "sha256-Jw22/2lk2vRDXf1LnsHEytzxgYn5sonSkikro68PpcE=",
       "System.Collections.Concurrent.a5p27xsv4n.wasm": "sha256-MgksW+NJadyiyI8emvLmH7ivFU8rFPhDRNiQabH01zg=",
